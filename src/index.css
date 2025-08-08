@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Zen+Dots&display=swap');
+@import "tailwindcss";
+
+.zen-dots-regular {
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 100;
+  font-style: bold;
+}
